@@ -1,0 +1,11 @@
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/GitHub/Softwaredesign/Aufgaben/L06/bin/Debug/netcoreapp2.1/L06.deps.json
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/GitHub/Softwaredesign/Aufgaben/L06/bin/Debug/netcoreapp2.1/L06.runtimeconfig.json
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/GitHub/Softwaredesign/Aufgaben/L06/bin/Debug/netcoreapp2.1/L06.runtimeconfig.dev.json
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/GitHub/Softwaredesign/Aufgaben/L06/bin/Debug/netcoreapp2.1/L06.dll
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/GitHub/Softwaredesign/Aufgaben/L06/bin/Debug/netcoreapp2.1/L06.pdb
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/GitHub/Softwaredesign/Aufgaben/L06/obj/Debug/netcoreapp2.1/L06.csprojAssemblyReference.cache
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/GitHub/Softwaredesign/Aufgaben/L06/obj/Debug/netcoreapp2.1/L06.csproj.CoreCompileInputs.cache
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/GitHub/Softwaredesign/Aufgaben/L06/obj/Debug/netcoreapp2.1/L06.AssemblyInfoInputs.cache
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/GitHub/Softwaredesign/Aufgaben/L06/obj/Debug/netcoreapp2.1/L06.AssemblyInfo.cs
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/GitHub/Softwaredesign/Aufgaben/L06/obj/Debug/netcoreapp2.1/L06.dll
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/GitHub/Softwaredesign/Aufgaben/L06/obj/Debug/netcoreapp2.1/L06.pdb
