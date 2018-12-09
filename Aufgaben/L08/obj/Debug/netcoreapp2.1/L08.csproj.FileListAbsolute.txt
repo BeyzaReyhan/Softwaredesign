@@ -1,0 +1,11 @@
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L08/bin/Debug/netcoreapp2.1/L08.deps.json
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L08/bin/Debug/netcoreapp2.1/L08.runtimeconfig.json
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L08/bin/Debug/netcoreapp2.1/L08.runtimeconfig.dev.json
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L08/bin/Debug/netcoreapp2.1/L08.dll
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L08/bin/Debug/netcoreapp2.1/L08.pdb
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L08/obj/Debug/netcoreapp2.1/L08.csprojAssemblyReference.cache
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L08/obj/Debug/netcoreapp2.1/L08.csproj.CoreCompileInputs.cache
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L08/obj/Debug/netcoreapp2.1/L08.AssemblyInfoInputs.cache
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L08/obj/Debug/netcoreapp2.1/L08.AssemblyInfo.cs
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L08/obj/Debug/netcoreapp2.1/L08.dll
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L08/obj/Debug/netcoreapp2.1/L08.pdb
