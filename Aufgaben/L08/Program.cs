@@ -20,7 +20,7 @@ namespace L08
 
             List<Question> question = new List<Question> {
                 
-                new Question("Wer hat Harry im 2. Teil gegen die Kammer des Schreckens geholfen?", new string[] { "Dumbledore", "Snape", "Dobby", "George" }, Question.multipleChoice, 3),
+                new Question("Wer hat Harry im 2. Teil gegen die Kammer des Schreckens geholfen?", new string[] { "Dumbledore", "Snape", "Dobby", "George" }, Question.multipleChoice, 3),   
                 new Question("Wer ist im Haus Gryffindor?", new string[] { "Malfoy", "Ron", "Hagrid", "Harry", "Voldemord", "Hermine" }, Question.multipleChoice, 3),
                 new Question("Snape ist Harrys Vater.", new string[] { "Ja", "Nein" }, Question.multipleChoice, 2),
                 new Question("Schätze, wie viele Schüler in Hogwards sind", new string[] { "1888", "2500", "2342", "7698", "100", "2698" }, Question.multipleChoice, 4),
@@ -44,9 +44,9 @@ namespace L08
                 Console.Clear();
             }
 
-            int tempScore = 0;
+            int tempScore = 0;      // Vielleicht eine andere Bezeichnung, z.B. "currentScore"
 
-            for (int i = 0; i < Results.firstResults.Count; i++)
+            for (int i = 0; i < Results.firstResults.Count; i++) // Besser wäre eine andere, leichtere Bezeichnung, wie "answers"
             {
                 if (Results.firstResults[i].isCorrect)
                 {
@@ -63,7 +63,7 @@ namespace L08
 
             Console.WriteLine("Ende!");
 
-            int tempFinalScore = 0;
+            int tempFinalScore = 0;     
 
             for (int i = 0; i < Results.finalResults.Count; i++)
             {
@@ -77,6 +77,7 @@ namespace L08
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine(tempFinalScore + "/" + Results.finalResults.Count.ToString());
             Console.ForegroundColor = ConsoleColor.White;
+            
             if (tempFinalScore > 5)
             {
                 Console.WriteLine("Gut!");
@@ -93,8 +94,10 @@ namespace L08
         {
 
             int choice = int.Parse(Console.ReadLine());
+            //Vielleicht zuerst ein Menü erstellen, damit der Spieler überhaupt weiß, dass er Zahlen eingeben muss und welche Bedeutung die jeweiligen Zahlen haben. 
+            Console.WriteLine("Bitte auswählen: :\n 1) Quiz Type wählen\n 2) Neue Fragen stellen\n 3) Das Spiel beenden\n");
 
-            if(choice == 1)
+            if(choice == 1)     
             {
                 ChooseQuestionType(score);
             }
@@ -112,7 +115,7 @@ namespace L08
         }
 
 
-        public static void IntroGreeting()
+        public static void IntroGreeting()      // Evtl. keine eigene Methode für die Begrüßung notwendig
         {
 
             Console.WriteLine("Es gibt fünf Fragen zu beantworten.");
