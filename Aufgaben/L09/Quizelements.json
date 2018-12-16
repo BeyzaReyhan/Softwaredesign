@@ -1,0 +1,66 @@
+[
+    {
+      "callToAction": "Gib' die Zahl der richtigen Antwort ein:",
+      "answers": [
+        {
+          "text": "Dobby",
+          "isTrue": true
+        },
+        {
+          "text": "Malfoy",
+          "isTrue": false
+        },
+        {
+          "text": "Snape",
+          "isTrue": false
+        },
+        {
+          "text": "George",
+          "isTrue": false
+        }
+      ],
+      "type": "Single",
+      "question": "Wer hat Harry im 2. Teil gegen die Kammer des Schreckens geholfen?"
+    },
+    {
+      "callToAction": "Gib die Zahlen der richtigen Antworten ein (mit ',' getrennt):",
+      "answers": [
+        {
+          "text": "Ron",
+          "isTrue": true
+        },
+        {
+          "text": "Voldemord",
+          "isTrue": false
+        },
+        {
+          "text": "Bellatrix",
+          "isTrue": false
+        },
+        {
+          "text": "Hermine",
+          "isTrue": true
+        }
+      ],
+      "type": "Multiple",
+      "question": "Wer ist im Haus Gryffindor?"
+    },
+    {
+      "callToAction": "Gib' Ja ('j') oder Nein ('n') ein:",
+      "correct": true,
+      "type": "Binary",
+      "question": "Überlebt Harry den Kampf gegen du weißt schon wen?"
+    },
+    {
+      "callToAction": "Wie lautet Deine Schätzung?",
+      "correct": 115,
+      "type": "Guess",
+      "question": "Wie alt ist Dumbledore?"
+    },
+    {
+      "callToAction": "Gib' die richtige Antwort ein:",
+      "correct": "Askaban",
+      "type": "Free",
+      "question": "Harry Potter und der Gefangene von ..."
+    }
+  ]
