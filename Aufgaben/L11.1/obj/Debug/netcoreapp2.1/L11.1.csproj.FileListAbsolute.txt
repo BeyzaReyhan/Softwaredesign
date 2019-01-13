@@ -1,0 +1,11 @@
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L11.1/bin/Debug/netcoreapp2.1/L11.1.deps.json
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L11.1/bin/Debug/netcoreapp2.1/L11.1.runtimeconfig.json
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L11.1/bin/Debug/netcoreapp2.1/L11.1.runtimeconfig.dev.json
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L11.1/bin/Debug/netcoreapp2.1/L11.1.dll
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L11.1/bin/Debug/netcoreapp2.1/L11.1.pdb
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L11.1/obj/Debug/netcoreapp2.1/L11.1.csprojAssemblyReference.cache
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L11.1/obj/Debug/netcoreapp2.1/L11.1.csproj.CoreCompileInputs.cache
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L11.1/obj/Debug/netcoreapp2.1/L11.1.AssemblyInfoInputs.cache
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L11.1/obj/Debug/netcoreapp2.1/L11.1.AssemblyInfo.cs
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L11.1/obj/Debug/netcoreapp2.1/L11.1.dll
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/L11.1/obj/Debug/netcoreapp2.1/L11.1.pdb
