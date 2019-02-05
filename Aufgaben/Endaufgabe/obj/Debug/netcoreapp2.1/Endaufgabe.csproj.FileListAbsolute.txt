@@ -1,0 +1,11 @@
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/Endaufgabe/bin/Debug/netcoreapp2.1/Endaufgabe.deps.json
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/Endaufgabe/bin/Debug/netcoreapp2.1/Endaufgabe.runtimeconfig.json
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/Endaufgabe/bin/Debug/netcoreapp2.1/Endaufgabe.runtimeconfig.dev.json
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/Endaufgabe/bin/Debug/netcoreapp2.1/Endaufgabe.dll
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/Endaufgabe/bin/Debug/netcoreapp2.1/Endaufgabe.pdb
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/Endaufgabe/obj/Debug/netcoreapp2.1/Endaufgabe.csprojAssemblyReference.cache
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/Endaufgabe/obj/Debug/netcoreapp2.1/Endaufgabe.csproj.CoreCompileInputs.cache
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/Endaufgabe/obj/Debug/netcoreapp2.1/Endaufgabe.AssemblyInfoInputs.cache
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/Endaufgabe/obj/Debug/netcoreapp2.1/Endaufgabe.AssemblyInfo.cs
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/Endaufgabe/obj/Debug/netcoreapp2.1/Endaufgabe.dll
+/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/Endaufgabe/obj/Debug/netcoreapp2.1/Endaufgabe.pdb

@@ -1,0 +1,18 @@
+[
+    {
+        "kursName": "Mathe 1",
+        "beschreibung": "Alles über Medien",
+        "noetigeAusstattung": [
+            "Whiteboard",
+            "Kreidetafel"
+        ]
+    },
+    {
+        "kursName": "Mathe 2",
+        "beschreibung": "Alles über Medien",
+        "noetigeAusstattung": [
+            "Whiteboard",
+            "Kreidetafel"
+        ]
+    }
+]

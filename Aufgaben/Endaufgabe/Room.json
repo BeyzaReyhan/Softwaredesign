@@ -1,0 +1,21 @@
+[
+    {
+        "Name": "I0.17",
+        "Plaetze": "125",
+        "Ausstattung": [
+            "Computer",
+            "Kreidetafel",
+            "Ansteigend",
+            "Whiteboard"
+        ]
+    },
+    {
+        "Name": "I0.14",
+        "Plaetze": "35",
+        "Ausstattung": [
+            "Computer",
+            "Kreidetafel",
+            "Whiteboard"
+        ]
+    }
+]

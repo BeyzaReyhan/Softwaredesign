@@ -1,0 +1,20 @@
+[
+    {
+        "studiengangname": "MIB_1",
+        "anzahlStudenten": "40",
+        "semester": "1",
+        "zuBesuchendeKurse": [
+            "Mathe 1",
+            "Physik",
+            "Videotechnik"
+        ]
+    },
+    {
+        "studiengangname": "MIB_2",
+        "anzahlStudenten": "32",
+        "semester": "2",
+        "zuBesuchendeKurse": [
+            "Mathe 2"
+        ]
+    }
+]

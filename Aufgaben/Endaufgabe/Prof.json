@@ -1,0 +1,42 @@
+[
+    {
+    "name": "Prof. Dr. Schneider",
+    "kurse": [
+        "Mathe 1",
+        "Mathe 2",
+        "Physik",
+        "Mathe MKB"
+    ],
+    "verhindert":[
+        {
+           "start": "2019-01-01T07:00:00",
+           "ende": "2019-01-01T11:00:00", 
+           "tag": "Dienstag"
+        },
+        {
+            "start": "2019-01-01T14:00:00",
+            "ende": "2019-01-01T17:00:00", 
+            "tag": "Mittwoch"
+         }
+    ]
+    },
+    {
+        "name": "Prof. Hottong",
+        "kurse": [
+            "Videotechnik",
+            "DV in Medienproduktionen"
+        ],
+        "verhindert":[
+            {
+               "start": "2019-01-01T08:00:00",
+               "ende": "2019-01-01T12:00:00", 
+               "tag": "Freitag"
+            },
+            {
+                "start": "2019-01-01T10:00:00",
+                "ende": "2019-01-01T14:00:00", 
+                "tag": "Donnerstag"
+             }
+        ]
+        }
+]
