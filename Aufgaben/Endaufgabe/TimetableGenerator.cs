@@ -22,7 +22,7 @@ namespace Endaufgabe
             foreach (Room raum in raeume)
             {
                 Console.WriteLine(raum.Name);
-                foreach (Equipment a in raum.Ausstattung)
+                foreach (string a in raum.Ausstattung)
                     Console.WriteLine(a.ToString());                        // Ausgeben, sind Objekte korregt angelegt?
             }
             LoadJsonProfs();                                                // Die Daten werden geladen.
@@ -85,13 +85,13 @@ namespace Endaufgabe
 
         public static void GenerateTimetable()
         {
-            var bloecke = woche.SelectMany(x => x.bloecke);
+            var _bloecke = woche.SelectMany(x => x.bloecke);
 
             foreach(Course kurs in kurse.OrderByDescending(kurs => kurs.anzahlStudenten).ToList())
             {
                 kurs.room = raeume.OrderBy(raum => raum.Plaetze).FirstOrDefault(raum => 
                     raum.Plaetze >= kurs.anzahlStudenten 
-                    && ListHelper.ContainsAllItems<Equipment>(raum.Ausstattung, kurs.noetigeAusstattung));
+                    && ListHelper.ContainsAllItems<string>(raum.Ausstattung, kurs.noetigeAusstattung));
                 if(kurs.room != null)
                     Console.WriteLine(kurs.kursName + " in Raum: " + kurs.room.Name);
             }
@@ -120,7 +120,7 @@ namespace Endaufgabe
             var data = File.ReadAllText("Course.json");                             // Converter zu einem c#-Objekt
             kurse = JsonConvert.DeserializeObject<List<Course>>(data);
         }
-    }
+}
 
     public static class ListHelper
     {

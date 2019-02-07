@@ -4,8 +4,8 @@ using System.Collections.Generic;
 namespace Endaufgabe
 {
     class Room{
-        public String Name;
+        public string Name;
         public int Plaetze;
-        public List<Equipment> Ausstattung;
+        public List<string> Ausstattung;
     }
 }

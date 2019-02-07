@@ -4,12 +4,12 @@ using System.Collections.Generic;
 namespace Endaufgabe
 {
     class OptionalCourse{
-        String name;
+        string name;
         Room room;
         int AnzahlStudenten;
         Prof prof;
         Block block;
-        String beschreibung;
+        string beschreibung;
         List<Equipment> NoetigeAusstattung;
         
     }

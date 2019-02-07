@@ -17,5 +17,31 @@
             "Kreidetafel",
             "Whiteboard"
         ]
+    },
+    {
+        "Name": "-",
+        "Plaetze": "120",
+        "Ausstattung": [
+            "Computer",
+            "Kreidetafel",
+            "Whiteboard"
+        ]
+    },
+    {
+        "Name": "-",
+        "Plaetze": "30",
+        "Ausstattung": [
+            "Computer",
+            "Kreidetafel",
+            "Whiteboard"
+        ]
+    },
+    {   "Name": "-",
+        "Plaetze": "30",
+        "Ausstattung": [
+            "Computer",
+            "Kreidetafel",
+            "Whiteboard"
+        ]
     }
 ]

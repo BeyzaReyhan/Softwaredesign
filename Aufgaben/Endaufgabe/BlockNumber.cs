@@ -5,16 +5,16 @@ using Newtonsoft.Json.Converters;
 [JsonConverter(typeof(StringEnumConverter))]
 enum BlockNumber {
     [EnumMember(Value = "1")]
-    Eins=1, 
+    One=1, 
     [EnumMember(Value = "2")]
-    Zwei=2, 
+    Two=2, 
     [EnumMember(Value = "3")]
-    Drei=3, 
+    Three=3, 
     [EnumMember(Value = "4")]
-    Vier=4, 
+    Four=4, 
     [EnumMember(Value = "5")]
-    Fünf=5, 
+    Five=5, 
     [EnumMember(Value = "6")]
-    Sechs=6, 
+    Six=6, 
     [EnumMember(Value = "7")]
-    Sieben=7};
+    Seven=7};

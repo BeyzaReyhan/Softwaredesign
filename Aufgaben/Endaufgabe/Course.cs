@@ -5,13 +5,13 @@ namespace Endaufgabe
 {
     class Course{
         
-        public String kursName;
+        public string kursName;
         public Room room;
         public int anzahlStudenten;
         public Prof prof;
         public Block block;
-        public String beschreibung;
-        public List<Equipment> noetigeAusstattung;
+        public string discription;
+        public List<string> noetigeAusstattung;
         public List<CourseOfStudy> studiengaenge;
 
     }
