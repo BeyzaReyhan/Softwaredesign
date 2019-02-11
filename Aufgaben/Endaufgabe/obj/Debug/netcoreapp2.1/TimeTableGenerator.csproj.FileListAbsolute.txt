@@ -1,0 +1,11 @@
+/Users/beyzareyhanaltintas/Desktop/TimeTableGenerator/bin/Debug/netcoreapp2.1/TimeTableGenerator.deps.json
+/Users/beyzareyhanaltintas/Desktop/TimeTableGenerator/bin/Debug/netcoreapp2.1/TimeTableGenerator.runtimeconfig.json
+/Users/beyzareyhanaltintas/Desktop/TimeTableGenerator/bin/Debug/netcoreapp2.1/TimeTableGenerator.runtimeconfig.dev.json
+/Users/beyzareyhanaltintas/Desktop/TimeTableGenerator/bin/Debug/netcoreapp2.1/TimeTableGenerator.dll
+/Users/beyzareyhanaltintas/Desktop/TimeTableGenerator/bin/Debug/netcoreapp2.1/TimeTableGenerator.pdb
+/Users/beyzareyhanaltintas/Desktop/TimeTableGenerator/obj/Debug/netcoreapp2.1/TimeTableGenerator.csprojAssemblyReference.cache
+/Users/beyzareyhanaltintas/Desktop/TimeTableGenerator/obj/Debug/netcoreapp2.1/TimeTableGenerator.csproj.CoreCompileInputs.cache
+/Users/beyzareyhanaltintas/Desktop/TimeTableGenerator/obj/Debug/netcoreapp2.1/TimeTableGenerator.AssemblyInfoInputs.cache
+/Users/beyzareyhanaltintas/Desktop/TimeTableGenerator/obj/Debug/netcoreapp2.1/TimeTableGenerator.AssemblyInfo.cs
+/Users/beyzareyhanaltintas/Desktop/TimeTableGenerator/obj/Debug/netcoreapp2.1/TimeTableGenerator.dll
+/Users/beyzareyhanaltintas/Desktop/TimeTableGenerator/obj/Debug/netcoreapp2.1/TimeTableGenerator.pdb

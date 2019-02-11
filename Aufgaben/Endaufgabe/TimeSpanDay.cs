@@ -1,15 +1,15 @@
 using System;
 
-public struct TimeSpanDay
-{
-    public DateTime startZeit;
-    public DateTime endZeit;
-    public DayEnum tag;
+public struct TimeSpanDay{
+    public DateTime start;
+    public DateTime end;
+    public Days dayName;
 
-    public TimeSpanDay(DateTime start, DateTime ende, DayEnum tag) 
+    public TimeSpanDay(DateTime start, DateTime end, Days dayName) 
     {
-        this.startZeit = start;
-        this.endZeit = ende;
-        this.tag = tag;
+        this.start = start;
+        this.end = end;
+        this.dayName = dayName;
     }
+
 }

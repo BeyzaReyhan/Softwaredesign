@@ -1,16 +1,16 @@
-using System;
 using System.Collections.Generic;
 
-namespace Endaufgabe
-{
-    class OptionalCourse{
-        string name;
-        Room room;
-        int AnzahlStudenten;
-        Prof prof;
-        Block block;
-        string beschreibung;
-        List<Equipment> NoetigeAusstattung;
-        
-    }
+public class OptionalCourse{
+    
+    public string name;
+    public string description;
+    public Room room;
+    public int studentNumber;
+    public bool shouldPrint = false;
+    public bool optionalCoursePrinted;
+    public Prof prof;
+    public Block block;
+    public TimeSpanDay timeSpanDay;
+    public bool optionalCourseUsed;
+    public List<string> equipment;
 }

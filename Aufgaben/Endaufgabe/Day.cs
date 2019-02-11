@@ -1,15 +1,11 @@
-using System;
 using System.Collections.Generic;
 
-namespace Endaufgabe
-{
-    class Day{
-        public List<Block> bloecke;
-        public DayEnum tag;
+public class Day{
+    public Days dayName;
+    public List<Block> blocks;
 
-        public Day (DayEnum tag) 
+    public Day (Days dayName) 
         {
-            this.tag = tag;
-        }
-    }
+            this.dayName = dayName;
+        } 
 }

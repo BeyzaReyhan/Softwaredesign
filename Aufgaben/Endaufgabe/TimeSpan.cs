@@ -1,13 +1,12 @@
 using System;
 
-public struct TimeSpan
-{
-    public DateTime startZeit;
-    public DateTime endZeit;
-
-    public TimeSpan(DateTime start, DateTime ende) 
+public struct TimeSpan{
+    public DateTime start;
+    public DateTime end;
+    public TimeSpan(DateTime start, DateTime end) 
     {
-        this.startZeit = start;
-        this.endZeit = ende;
+        this.start = start;
+        this.end = end;
     }
+
 }

@@ -1,12 +1,9 @@
 using System;
 using System.Collections.Generic;
 
-namespace Endaufgabe
-{
-    class Prof{
-        public string name;
-         public List<string> kurse;
-        public List<TimeSpanDay> verhindert;
-
-    }
+public class Prof{
+    public string name;
+    public List<string> courses;
+    public bool profUsed;
+    public List<TimeSpanDay> busy;
 }

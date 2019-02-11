@@ -735,11 +735,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/Endaufgabe/Endaufgabe.csproj",
-      "projectName": "Endaufgabe",
-      "projectPath": "/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/Endaufgabe/Endaufgabe.csproj",
+      "projectUniqueName": "/Users/beyzareyhanaltintas/Desktop/TimeTableGenerator/TimeTableGenerator.csproj",
+      "projectName": "TimeTableGenerator",
+      "projectPath": "/Users/beyzareyhanaltintas/Desktop/TimeTableGenerator/TimeTableGenerator.csproj",
       "packagesPath": "/Users/beyzareyhanaltintas/.nuget/packages/",
-      "outputPath": "/Users/beyzareyhanaltintas/Documents/Hochschule/Softwaredesign/Softwaredesign/Aufgaben/Endaufgabe/obj/",
+      "outputPath": "/Users/beyzareyhanaltintas/Desktop/TimeTableGenerator/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

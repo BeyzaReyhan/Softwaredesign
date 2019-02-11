@@ -1,20 +1,16 @@
 using System;
 using System.Collections.Generic;
 
-namespace Endaufgabe
-{
-    class Block{
-        public TimeSpan zeit;
-        public int nummer;
-        public List<Course> kurse;
+public class Block{
+    public TimeSpan timespan;
+    public int blockNumber;
+    public List<Course> blockCourses = new List<Course>();
+    public Days dayName;
 
-        public DayEnum tag;
-
-        public Block (TimeSpan zeit, int nummer, DayEnum tag) 
+    public Block (TimeSpan zeit, int blockNumber, Days dayName) 
         {
-            this.zeit = zeit;
-            this.nummer = nummer;
-            this.tag = tag;
+            this.timespan = zeit;
+            this.blockNumber = blockNumber;
+            this.dayName = dayName;
         }
-    }
 }
